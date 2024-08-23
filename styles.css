@@ -1,0 +1,28 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
+  .announcement {
+    padding: 5px;
+  }
+
+  .recipe-box {
+    margin: 10px;
+  }
+  .recipe-box li {
+    display: inline;
+    padding: 10px;
+  }
