@@ -7,22 +7,19 @@
 
 html {
     box-sizing: border-box;
-  }
+}
 
-  *,
-  *::before,
-  *::after {
+*,
+*::before,
+*::after {
     box-sizing: inherit;
-  }
+}
 
-  .announcement {
-    padding: 5px;
-  }
-
-  .recipe-box {
+div {
     margin: 10px;
-  }
-  .recipe-box li {
+}
+
+.recipe-box li {
     display: inline;
     padding: 10px;
-  }
+}
